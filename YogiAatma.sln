@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YogiAatma", "YogiAatma\YogiAatma.csproj", "{CB951397-CF00-4BCA-8838-138CC6DA1C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YogiAatma.Tests", "YogiAatma.Tests\YogiAatma.Tests.csproj", "{9506DA5B-0310-44C2-8685-73C25EF8AD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB951397-CF00-4BCA-8838-138CC6DA1C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB951397-CF00-4BCA-8838-138CC6DA1C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB951397-CF00-4BCA-8838-138CC6DA1C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB951397-CF00-4BCA-8838-138CC6DA1C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9506DA5B-0310-44C2-8685-73C25EF8AD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9506DA5B-0310-44C2-8685-73C25EF8AD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9506DA5B-0310-44C2-8685-73C25EF8AD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9506DA5B-0310-44C2-8685-73C25EF8AD72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
